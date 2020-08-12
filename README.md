@@ -16,7 +16,7 @@
 <li> Used BCRYPT Algo for encrypting our passwords</li>
 <li> Added the password reset functionality</li>
 <li> Used Nodemailer for sending emails for password reset!</li>
-<li> Added JWT Cookies, Rate Limiting, Data Sanitization, Security HTTP Headers and Parameter Pollution!</li>
+<li> Added JWT Cookies, Rate Limiting, Data Sanitization, Security HTTP Headers and Parameter Pollution!</li><br>
 
 <img src='./img2.jpg'></img>
 
@@ -33,6 +33,6 @@
 <li>nodemailer</li>
 <li>xss-clean</li>
 
-#### Checkout the Code!
+### Checkout the Code!
 
 
