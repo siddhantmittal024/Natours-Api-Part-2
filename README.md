@@ -10,6 +10,8 @@
 
 ### 06-08-2020: AUTHENTICATION, AUTHORIZATION AND SECURITY
 
+<img src='./img2.jpg'></img>
+
 <img src='./img1.jpg'></img>
 
 #### Checkout the Code!
