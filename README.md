@@ -22,6 +22,8 @@
 
 <img src='./img1.jpg'></img>
 
+### 28-08-2020: STARTED DATA MODELLING AND LEARNING ADVANCED mMONGOOSE
+
 ### NPM PACKAGES USED
 <li>Bcrypt</li>
 <li>express-mongo-sanitize</li>
